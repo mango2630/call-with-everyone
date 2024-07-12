@@ -1,0 +1,7 @@
+.call-uikit {
+  position: absolute;
+  z-index: 100;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+}
